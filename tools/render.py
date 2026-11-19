@@ -260,8 +260,8 @@ def main() -> None:
          "Four nations urge Israel to let aid in; heavy rain displaces "
          "46,000+ households."),
         (6, TEAL, "Eisenkot to form government",
-         "President Herzog asks the ex-army chief to try; the Knesset "
-         "elects Matan Kahana speaker with 66 votes."),
+         "Herzog asks the ex-army chief to try; the Knesset elects "
+         "Kahana speaker, 66 votes."),
         (7, TEAL, "Court to rule on Myanmar",
          "The UN's top court is to rule on genocide claims against "
          "Myanmar over the Rohingya."),
