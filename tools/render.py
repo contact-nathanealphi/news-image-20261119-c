@@ -249,8 +249,8 @@ def main() -> None:
          "Trump, Xi and Putin meet at the APEC sidelines; nuclear arms, "
          "Ukraine and Iran on the agenda."),
         (2, RED, "Strikes across the Gulf",
-         "Iran fires at US bases in Kuwait and Bahrain; the US hits a "
-         "Guard missile site on Qeshm; a tanker is struck in Hormuz."),
+         "Iran hits US bases in Kuwait and Bahrain; US hits a "
+         "Qeshm missile site; a tanker is hit in Hormuz."),
         (3, RED, "Kerch Bridge hit again",
          "Ukraine strikes the Crimean Bridge for the third time this week."),
         (4, TEAL, "Anthropic's record debut",
